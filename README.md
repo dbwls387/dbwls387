@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=689F38&text=Hello!%20I'm%20YuJin&fontColor=1B5E20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=689F38&text=Hi!%20I'm%20YuJin&fontColor=1B5E20)
 
 
 <h3 align="center">🍃 YuJin's Github Stats 🍃</h3>
